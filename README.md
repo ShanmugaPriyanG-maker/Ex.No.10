@@ -1,6 +1,6 @@
 # Exno.10-Prompt-Engg
 ## Name : Shanmuga Priyan G
-## Register no : 212224060172
+## Register no : 212224060245
 # Aim:
 To perform Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
 
